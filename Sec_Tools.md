@@ -1,3 +1,12 @@
+# ?Hat tools
+- [Phenolit ORG](http://www.phenoelit.org/fr/tools.html)
+- [Pentest-tools](https://pentest-tools.com) 
+- [N0where](https://n0where.net/best-cybersecurity-tools/)
+- [Exploit-KitPloit](https://exploit.kitploit.com) 
+- [nullsecurity/tools](http://nullsecurity.net/tools.html) - exploits, PoC code, shellcodes and snippets.
+- [Tarasco Security Tools](http://www.tarasco.org/security/tools.html) - sectools, exploits PoC...
+- [Bishop Fox Tools](https://www.bishopfox.com/resources/tools) 
+
 ## Browsers 
 - [Laboratory (Content Security Policy / CSP Toolkit)](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla) -- Laboratory is an experimental Firefox extension that helps you generate a Content Security Policy (CSP) header for your website.
 
@@ -40,15 +49,25 @@
 ## USB cleaner
 - [CIRCLean USB Sanitizer](https://github.com/Rafiot/KittenGroomer)
 
-## ?Hat tools
-- [Phenolit ORG](http://www.phenoelit.org/fr/tools.html)
-- [Pentest-tools](https://pentest-tools.com) 
-- [N0where](https://n0where.net/best-cybersecurity-tools/)
-- [Exploit-KitPloit](https://exploit.kitploit.com) 
-- [nullsecurity/tools](http://nullsecurity.net/tools.html) - exploits, PoC code, shellcodes and snippets.
-- [Tarasco Security Tools](http://www.tarasco.org/security/tools.html) - sectools, exploits PoC...
-- **[Xplico](https://www.xplico.org/download)** - Open Source Network Forensic Analysis Tool (NFAT) 
 
+## NetSec | NetForensic 
+- **[Xplico](https://www.xplico.org/download)** - Open Source Network Forensic Analysis Tool (NFAT) 
+- **[NetreSec](http://www.netresec.com/?page=Resources)** -- NetworkMiner || CapLoader || PacketCache
+  + [NetworkMiner](http://www.netresec.com/?page=Networkminer) - NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network. NetworkMiner can also parse PCAP files for off-line analysis and to regenerate/reassemble transmitted files and certificates from PCAP files.
+   
+  + [CapLoader](http://www.netresec.com/?page=CapLoader) - CapLoader is a Windows tool designed to handle large amounts of captured network traffic. CapLoader performs indexing of PCAP/PcapNG files and visualizes their contents as a list of TCP and UDP flows. 
+   
+  + [PacketCache](http://www.netresec.com/?page=PacketCache) - PacketCache is a free Windows service designed to continuously monitor the network interfaces of a computer and store the captured packets in memory (RAM). The idea is to make full-content packets available for post-event incident response and network forensic analysis.
+  
+
+## Kernel hacking | Anti-rootkits 
+- [Process Hacker ver. Nightly](https://wj32.org/processhacker/nightly.php) 
+- [GMER](http://www.gmer.net) - An application that detects and removes rootkits.   
+- [Xuetr/PC Hunter](http://www.xuetr.com/?p=191) - a Windows system information viewing software, but also a manual antivirus software 
+
+
+*** 
+  
 # ANONYMITY
 
 [-] **[That One Privacy Site](https://thatoneprivacysite.net/)**
