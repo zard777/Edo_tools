@@ -17,4 +17,4 @@ Last analysis	2018-04-24 07:12:33 UTC
 _ https://www.virustotal.com/#/file/152aa65935843d0e387dc0a9fad072b1034216a2e7ab4d16a3397027e3abc626/detection
 
 ## Credit of original author 
-[@TheM4hd1](https://github.com/TheM4hd1)
+[@TheM4hd1](https://github.com/TheM4hd1/PenCrawLer)
