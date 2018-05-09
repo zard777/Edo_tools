@@ -51,9 +51,10 @@
 - [CIRCLean USB Sanitizer](https://github.com/Rafiot/KittenGroomer)
 
 
-## NetSec | NetForensic 
+## NetSec | NetForensic + [publicly available PCAP files](http://www.netresec.com/?page=PcapFiles) 
+
 - **[Xplico](https://www.xplico.org/download)** - Open Source Network Forensic Analysis Tool (NFAT) 
-- **[NetreSec](http://www.netresec.com/?page=Resources)** -- NetworkMiner || CapLoader || PacketCache
+- **[NetreSec](http://www.netresec.com/?page=Blog)** -- NetworkMiner || CapLoader || PacketCache || [RawCap](http://www.netresec.com/?page=RawCap) || [TrimPCAP](http://www.netresec.com/?page=TrimPCAP) || [findject.py](http://www.netresec.com/?page=findject)
   + [NetworkMiner](http://www.netresec.com/?page=Networkminer) - NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ports etc. without putting any traffic on the network. NetworkMiner can also parse PCAP files for off-line analysis and to regenerate/reassemble transmitted files and certificates from PCAP files.
    
   + [CapLoader](http://www.netresec.com/?page=CapLoader) - CapLoader is a Windows tool designed to handle large amounts of captured network traffic. CapLoader performs indexing of PCAP/PcapNG files and visualizes their contents as a list of TCP and UDP flows. 
