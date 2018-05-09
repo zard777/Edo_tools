@@ -59,7 +59,9 @@
   + [CapLoader](http://www.netresec.com/?page=CapLoader) - CapLoader is a Windows tool designed to handle large amounts of captured network traffic. CapLoader performs indexing of PCAP/PcapNG files and visualizes their contents as a list of TCP and UDP flows. 
    
   + [PacketCache](http://www.netresec.com/?page=PacketCache) - PacketCache is a free Windows service designed to continuously monitor the network interfaces of a computer and store the captured packets in memory (RAM). The idea is to make full-content packets available for post-event incident response and network forensic analysis.
-  
+
+
+- **[WinDump](https://www.winpcap.org/windump/docs/manual.htm)** - **`tcpdump for Windows using WinPcap`**
 
 ## Kernel hacking | Anti-rootkits 
 - [Process Hacker ver. Nightly](https://wj32.org/processhacker/nightly.php) 
