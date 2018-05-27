@@ -10,3 +10,6 @@ Community score	+2
 ```
 
 > https://www.virustotal.com/#/file/4390c278da02269c20e657d97b2bb17040f72c9e5cb2003ee135eca42aca7dec
+
+## Credits 
+**_Original works from @[Bishop Fox](https://www.bishopfox.com)_**
