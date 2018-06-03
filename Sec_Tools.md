@@ -35,6 +35,7 @@
  - [SecThemAll](https://secthemall.com/) - Bash script that automatically blocks IP using iptables. It distributes each blocked IP on all your Linux server.
  - [Swap digger](https://github.com/sevagas/swap_digger) 
  - **[Encrypto® tools](https://www.encripto.no/en/downloads-2/tools)** 
+ - **[(Ot)her (Sec)urity (A)wareness](https://github.com/trimstray/otseca)** -- Open source security auditing tool to search and dump system configuration.
  
 ## Windows 💻
  - [Gibson Research Corporation](https://www.grc.com/freepopular.htm)
