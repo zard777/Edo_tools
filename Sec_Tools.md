@@ -66,6 +66,8 @@
 - **[WinDump](https://www.winpcap.org/windump/docs/manual.htm)** - **`tcpdump for Windows using WinPcap`**
 - **[Yersinia](http://www.yersinia.net/attacks.htm)** |- A framework for layer 2 attacks -|| -- [Latest releases](https://github.com/tomac/yersinia/releases) 
 
+- **[AOL/Moloch](https://github.com/aol/moloch)** - an open source, large scale, full packet capturing, indexing, and database system
+
 ## Kernel hacking | Anti-rootkits 
 - [Process Hacker ver. Nightly](https://wj32.org/processhacker/nightly.php) 
 - [GMER](http://www.gmer.net) - An application that detects and removes rootkits.   
