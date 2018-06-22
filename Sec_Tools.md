@@ -77,8 +77,12 @@
 *** 
   
 # ANONYMITY
-[-] [Annonymous Internet surfing](http://www.proxies.by/proxy/howto.htm) 
-[-] **[That One Privacy Site](https://thatoneprivacysite.net/)**
+[x] [Annonymous Internet surfing](http://www.proxies.by/proxy/howto.htm)
+
+[x] [Hide.My.Name](https://hidemy.name/en/proxy-list)
+
+[x] **[That One Privacy Site](https://thatoneprivacysite.net)**
+
  + [Chain VPN for complete anonymity](https://null-byte.wonderhowto.com/how-to/chain-vpns-for-complete-anonymity-0131368/)
  + [Proxychains-NG](https://github.com/rofl0r/proxychains-ng) - New-gen preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
  + [PanoptiCLICK v3](https://panopticlick.eff.org/) - Is your browser safe against tracking?
