@@ -88,11 +88,15 @@
  + [PanoptiCLICK v3](https://panopticlick.eff.org/) - Is your browser safe against tracking?
  + [Internet Freedom Toolbox](https://toolbox.bof.nl) - Freedom, security and privacy online. 
  + **[StreisandEffect/Stretsand](https://github.com/StreisandEffect/streisand)** - Streisand sets up a new server running your choice of L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, vice versa..
- + [AlgoVPN](https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal IPSEC VPN. It uses the most secure defaults available, works with common cloud providers, and does not require client software on most devices.
- 
  + [CryptoPaper](https://github.com/cryptoseb/CryptoPaper) -- Privacy, Security, and Anonymity For Every Internet User.
  + [PrivacyTools.io](https://github.com/privacytoolsIO/privacytools.io) -- 🛡️ encryption against global mass surveillance.
  + [ProxyBroker](https://github.com/constverum/ProxyBroker) -- Proxy [Finder | Checker | Server] HTTP(S) & SOCKS 🎭
+
+
++ [AlgoVPN](https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal IPSEC VPN. It uses the most secure defaults available, works with common cloud providers, and does not require client software on most devices.
++ [Anon.af](https://anon.af) -- Choose the amount of time you need and get your OpenVPN client configuration in a few minutes! Express Bitcoin payment builtin, get your valid certificate for one user with unlimited access to all of our servers. No registration needed. No bullshit.
+ 
+ 
  
 ## Ciphers 
 - [Cipherli.st](https://cipherli.st) - Strong Ciphers for Apache, nginx and Lighttpd
