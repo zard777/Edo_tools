@@ -5,4 +5,4 @@
 
 - Win10 version: 
 
-`(for /L %i in (1,1,255) do ping -n 1 1.X.X.%i ) | find "time=" `
+`(for /L %i in (1,1,255) do ping -n 1 211.X.X.%i ) | find "time=" `
