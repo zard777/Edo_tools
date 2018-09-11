@@ -98,12 +98,13 @@
  
  
  
-## Ciphers 
+## Ciphers/Certs 
 - [Cipherli.st](https://cipherli.st) - Strong Ciphers for Apache, nginx and Lighttpd
 - [MiTLS](https://mitls.org/pages/attacks) ||| [.Github](https://github.com/mitls)
 - **[BREACH](https://github.com/nealharris/BREACH) + [.pdf](https://tom.vg/papers/heist_blackhat2016.pdf) ||| [DROWN](https://drownattack.com/top-sites.html). + [DROWNER scanner](https://github.com/nimia/public_drown_scanner)**
 - [testssl.sh](https://testssl.sh) - Testing TLS/SSL encryption.
-
+- [Symantec CrytoReport](https://cryptoreport.websecurity.symantec.com/checker) - webapp certificate tools 
+- **[DigiCert SSL Tools](https://ssltools.digicert.com/checker)** -- symantec cryptoreport new version+ 
 
 
 ## Helpful links
