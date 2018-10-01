@@ -8,6 +8,9 @@
 - [Bishop Fox Tools](https://www.bishopfox.com/resources/tools) -- **[Google Hacking Diggity Project](https://www.bishopfox.com/resources/tools/google-hacking-diggity)** || **[Metasploit Anti-Forensics Project](https://www.bishopfox.com/resources/tools/other-free-tools/mafia)** || [Firecat](https://www.bishopfox.com/resources/tools/other-free-tools/firecat)  
 
 - [BitDefender Labs®  Free Tools](https://labs.bitdefender.com/category/free-tools) 
+
+- [Slitheris Network Discovery | NEWT Professional Network Inventory](http://www.komodolabs.com) --- `NEWT® and Slitheris® are Registered Trademarks of Komodo Labs` 
+
 ## Browsers 
 - [Laboratory (Content Security Policy / CSP Toolkit)](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla) -- Laboratory is an experimental Firefox extension that helps you generate a Content Security Policy (CSP) header for your website.
 
