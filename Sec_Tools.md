@@ -82,6 +82,8 @@
 # ANONYMITY
 [x] [Annonymous Internet surfing](http://www.proxies.by/proxy/howto.htm)
 
+[x] [List of free proxies: HTTP | SSL | SOCKS4 | SOCKS5 | WEB PROXY](http://iceproxy.net) 
+
 [x] [Hide.My.Name](https://hidemy.name/en/proxy-list)
 
 [x] **[That One Privacy Site](https://thatoneprivacysite.net)**
@@ -113,9 +115,11 @@
 ## Helpful links
 ### [VPN testing](https://vpntesting.info/index.html) ||| [AstrillVPN Ipv6 | WebRTC leak test](https://www.astrill.com/vpn-leak-test) 
 ### [VPN Leak @VoidSec](https://voidsec.com/vpn-leak) ||| [VPN Leak checker](https://ip.voidsec.com)
-### [Internet-Wide Scan Data Repository](https://scans.io) 
-
-**```The Internet-Wide Scan Data Repository is a public archive of research datasets that describe the hosts and sites on the Internet. The repository is hosted by Censys. While we publish much of the data, we are happy to host data from other researchers as well. A JSON interface to the repository is available. The data on the site is restricted to non-commercial use.```**
-
+ 
 ### [DNS Leak Test](https://www.dnsleaktest.com) 
 ### [Ip | DNS detect](https://ipleak.net) 
+
+### [Internet-Wide Scan Data Repository](https://scans.io) ||| [Censys.io](https://censys.io) 
+**```The Internet-Wide Scan Data Repository is a public archive of research datasets that describe the hosts and sites on the Internet. The repository is hosted by Censys. While we publish much of the data, we are happy to host data from other researchers as well. A JSON interface to the repository is available. The data on the site is restricted to non-commercial use.```**
+
+
