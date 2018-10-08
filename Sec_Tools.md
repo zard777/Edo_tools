@@ -11,7 +11,12 @@
 
 - [Slitheris Network Discovery | NEWT Professional Network Inventory](http://www.komodolabs.com) --- `NEWT® and Slitheris® are Registered Trademarks of Komodo Labs` 
 
-## Browsers 
+## Browsers / extensions 
+- [Oryon C Portable](https://sourceforge.net/projects/oryon-osint-browser) --  web browser designed to assist researchers in conducting Open Source Intelligence investigations.
+- [OSIRT v4.5-2018](http://osirtbrowser.com/get-osirt) -- Open Source Internet Research Tool // DFIR-enhanced tool  
+
+*** 
+
 - [Laboratory (Content Security Policy / CSP Toolkit)](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla) -- Laboratory is an experimental Firefox extension that helps you generate a Content Security Policy (CSP) header for your website.
 
 - [Firefox Firebeam](https://addons.mozilla.org/en-US/firefox/addon/lightbeam) -- Using interactive visualizations, Lightbeam shows you the relationships between these third parties and the sites you visit.
@@ -22,6 +27,8 @@
 - [User Agent Changer](https://addons.mozilla.org/en-US/firefox/addon/changer-user-agent) 
 - **[SEO Browser extensions from LinkResearchTools® ](https://www.linkresearchtools.com/try/seo-browser-extensions)**
 - [IP Logger](https://iplogger.org) -- IP Logger provides many unique visitor counters, including invisible image, IP informers and userbars for your website, blog or forum. If you are wondering how to find ip address of a website or anyone in the internet, you are in the right place!
+
+
 
 ## Toolswatch 🔧
  - [Asernal Tools](https://github.com/toolswatch/blackhat-arsenal-tools)
