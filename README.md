@@ -2,3 +2,4 @@
 
 ### Awe+ lists 
 - https://github.com/cugu/awesome-forensics
+- https://github.com/Igglybuff/awesome-piracy
