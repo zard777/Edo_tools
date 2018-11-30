@@ -109,7 +109,7 @@
 + [Anon.af](https://anon.af) -- Choose the amount of time you need and get your OpenVPN client configuration in a few minutes! Express Bitcoin payment builtin, get your valid certificate for one user with unlimited access to all of our servers. No registration needed. No bullshit.
 
 + [TorGhost: forward all traffics to TOR Network](https://hackpuntes.com/torghost-reenvia-todo-el-trafico-a-la-red-tor)  
- 
++ [Hiding through a maze of IoT devices](https://blog.0day.rocks/hiding-through-a-maze-of-iot-devices-9db7f2067a80) -- How to create the perfect anonymizing botnet by abusing UPnP features — and without any infection
  
 ## Ciphers/Certs 
 - [Cipherli.st](https://cipherli.st) - Strong Ciphers for Apache, nginx and Lighttpd
