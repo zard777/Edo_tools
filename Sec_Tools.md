@@ -119,6 +119,7 @@
 - [Symantec CrytoReport](https://cryptoreport.websecurity.symantec.com/checker) - webapp certificate tools 
 - **[DigiCert SSL Tools](https://ssltools.digicert.com/checker)** -- symantec cryptoreport new version+ 
 - [Qualys@ SSL Labs/ SSL Client test](https://www.ssllabs.com/ssltest/viewMyClient.html) -- SSL/TLS capabilities of your browser --- **[--> more tools from Qualys@](https://www.ssllabs.com/projects/index.html)** 
+- **[TLS Checker @cdn77](https://www.cdn77.com/tls-test)** -- Does your server or CDN support the latest TLS 1.3 to make your HTTPS connections fast and secure?
 
 ## Helpful links
 ### [VPN testing](https://vpntesting.info/index.html) ||| [AstrillVPN Ipv6 | WebRTC leak test](https://www.astrill.com/vpn-leak-test) 
