@@ -11,6 +11,9 @@
 
 - [Slitheris Network Discovery | NEWT Professional Network Inventory](http://www.komodolabs.com) --- `NEWT® and Slitheris® are Registered Trademarks of Komodo Labs` 
 
+### Mobile 
+- **[250+ Pentesting Android Apps](https://github.com/thehackingsage/HackDroid)** -- *Copyright Of All Applications belong to their Owners..*
+
 ## Browsers / extensions 
 - [Oryon C Portable](https://sourceforge.net/projects/oryon-osint-browser) --  web browser designed to assist researchers in conducting Open Source Intelligence investigations.
 - [OSIRT v4.5-2018](http://osirtbrowser.com/get-osirt) -- Open Source Internet Research Tool // DFIR-enhanced tool  
